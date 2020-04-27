@@ -1,3 +1,3 @@
 # java-programming
 
-Mineral Trumps game
+Mineral Trumps Game
